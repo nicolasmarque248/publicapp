@@ -1,0 +1,2 @@
+# publicapp
+Kubernetes public application.
